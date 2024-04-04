@@ -8,3 +8,4 @@
 ### Input
 * Botium Toys - Scope, goals and risk assessment report : https://github.com/Pragna235/Internal-Security-Audit/blob/main/Botium%20Toys%20-%20Scope%2C%20goals%20and%20risk%20assessment%20report.pdf
 * Control Categories : https://github.com/Pragna235/Internal-Security-Audit/blob/main/Control%20Categories.pdf
+* Controls and Compliance Checklist - https://github.com/Pragna235/Internal-Security-Audit/blob/main/Controls%20and%20compliance%20checklist.pdf
