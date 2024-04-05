@@ -12,3 +12,12 @@
 
 ### Internal Audit Result
 * Output : https://github.com/Pragna235/Internal-Security-Audit/blob/main/Controls-and-compliance-checklist-Result.pdf
+
+### Audit Questions
+- What is the audit meant to achieve?
+- Which assets are most at risk?
+- Are current controls sufficient to protect those assets?
+- What controls and compliance regulations need to be implemented?
+
+* Try to answer the above questions after reviewing the Scope, goals and risk assessment and the control and categories before formulating the result and recommendations.
+
